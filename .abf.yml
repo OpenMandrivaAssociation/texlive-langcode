@@ -1,4 +1,4 @@
 sources:
-  "langcode.doc.tar.xz:"	2140c57ec6bd9ea6fd378e44245bbb5c71564127
-  "langcode.source.tar.xz:"	35097711df3fa8021ad5f5e742e7d047d0f3d212
-  "langcode.tar.xz:"	43b1fcbdaef3540292962156f348f76bcc923d21
+  langcode.doc.tar.xz: 2140c57ec6bd9ea6fd378e44245bbb5c71564127
+  langcode.source.tar.xz: 35097711df3fa8021ad5f5e742e7d047d0f3d212
+  langcode.tar.xz: 43b1fcbdaef3540292962156f348f76bcc923d21
