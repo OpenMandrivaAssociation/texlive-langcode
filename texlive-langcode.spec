@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-langcode
 Version:	20131019
-Release:	6
+Release:	7
 Summary:	TeXLive langcode package
 Group:		Publishing
 URL:		http://tug.org/texlive
