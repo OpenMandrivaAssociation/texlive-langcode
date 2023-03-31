@@ -1,6 +1,6 @@
 Name:		texlive-langcode
 Version:	27764
-Release:	1
+Release:	2
 Summary:	TeXLive langcode package
 Group:		Publishing
 URL:		http://tug.org/texlive
